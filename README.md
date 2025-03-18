@@ -1,2 +1,2 @@
 
-Build a Currency Converter App in React JS 18 using tailwindcss for styling.
+Build a Currency Converter with React JS and Tailwind CSS
